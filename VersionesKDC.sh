@@ -20,3 +20,4 @@ echo "Versión: $OS_VERSION"
 echo "Kernel: $KERNEL_VERSION"
 echo "GCC: $GCC_VERSION"
 echo "G++: $GPLUS_VERSION"
+
